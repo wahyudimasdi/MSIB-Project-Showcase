@@ -34,11 +34,9 @@ To explore the projects locally, follow these steps:
    git clone https://github.com/username/data-science-portfolio.git
    cd data-science-portfolio
 2. **Set Up a Virtual Environment**:
-   '''bash
    python -m venv env
    source env/bin/activate  # On Windows, use `env\Scripts\activate`
-3. Install Dependencies:
-   '''bash
+4. Install Dependencies:
    pip install -r requirements.txt
 
 ## Usage
