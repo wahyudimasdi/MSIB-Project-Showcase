@@ -8,7 +8,6 @@
 - [Usage](#usage)
 - [Project Descriptions](#project-descriptions)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
