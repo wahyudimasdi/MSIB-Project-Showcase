@@ -17,14 +17,16 @@ Welcome to my Data Science and Analytics Portfolio! This repository contains a c
 This portfolio includes projects on a variety of topics, including:
 - **Sentiment Analysis**: Analyzing customer reviews from Google Play Store to determine sentiment.
 - **Predictive Modeling**: Building machine learning models to predict housing prices.
-- **Data Visualization**: Creating interactive visualizations using Python and Tableau.
+- **Data Visualization**: Creating interactive visualizations using Python and R.
 - **Exploratory Data Analysis (EDA)**: Performing EDA on various datasets to uncover insights and trends.
+- **Object Detection**: Using YOLO for create predicting model for object detection
 
 ## Features
 - **Detailed Documentation**: Each project comes with a comprehensive README file explaining the project goals, methodologies, and results.
 - **Reproducible Code**: The code for each project is well-documented and can be easily run and modified.
 - **Visualizations**: Includes a variety of data visualizations to illustrate findings.
 - **Jupyter Notebooks**: Many projects include Jupyter Notebooks for an interactive experience.
+- **R Studio**: Many projects using R for model building and visualization analysis.
 
 ## Installation
 To explore the projects locally, follow these steps:
