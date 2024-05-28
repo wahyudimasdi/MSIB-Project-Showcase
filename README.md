@@ -33,7 +33,7 @@ To explore the projects locally, follow these steps:
    ```bash
    git clone https://github.com/username/data-science-portfolio.git
    cd data-science-portfolio
-2. **Set Up a Virtual Environment:::
+2. **Set Up a Virtual Environment**:
    '''bash
    python -m venv env
    source env/bin/activate  # On Windows, use `env\Scripts\activate`
