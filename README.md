@@ -62,22 +62,7 @@ To explore the projects locally, follow these steps:
   - Key Findings: Visualizes sentiment distribution and provides insights into customer satisfaction.
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements or new projects to add, please follow these steps:
-### Fork the Repository: 
-Click the "Fork" button at the top right of this page.
-Create a Branch:
-'''bash
-git checkout -b your-feature-branch
-### Make Your Changes:
-Implement your changes and commit them with descriptive messages.
-### Push to Your Fork:
-'''bash
-git push origin your-feature-branch
-### Create a Pull Request:
-Open a pull request from your forked repository to the main repository.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Contributions are welcome! If you have suggestions for improvements or new projects to add, please comment down on my project
 
 ## Acknowledgements
 I would like to thank my professors, mentors, and colleagues who have supported and guided me throughout my learning journey. Your feedback and encouragement have been invaluable.
