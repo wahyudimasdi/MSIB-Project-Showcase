@@ -18,6 +18,7 @@ This portfolio includes projects on a variety of topics, including:
 - **Sentiment Analysis**: Analyzing customer reviews from Google Play Store to determine sentiment.
 - **Predictive Modeling**: Building machine learning models to predict housing prices.
 - **Data Visualization**: Creating interactive visualizations using Python and R.
+- **Database**: Creating Online Marketplace Database using MySQl and DB Browser
 - **Exploratory Data Analysis (EDA)**: Performing EDA on various datasets to uncover insights and trends.
 - **Object Detection**: Using YOLO for create predicting model for object detection
 
